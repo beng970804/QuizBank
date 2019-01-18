@@ -1,0 +1,9 @@
+1. "Startup" is a function used to read the text file containing the set of question. It requires the player(you) to enter a valid file name before reading the questions. If there is already an existing text file, the program will require you to delete the existing question set before reading a new text file.
+
+2. "Start Game" is a function used to allow the player to start game. Player can choose to answer any number of question. The player's score is also kept track and display at the end of game.
+
+3. "Adminisration" is a function used to allow the user to access adminstration feature of the program. It will require a password to access. So, please remember to get the password before accessing this feature.
+
+4. "Menu Guide" is a function to allow the user to open and read THIS guide. 
+
+***(For my lecturer: the password is "password")***

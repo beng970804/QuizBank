@@ -1,0 +1,13 @@
+1. "Insert new question" allows you to insert a new question and update into the question text file.
+
+2. "Edit existing question" allows you to edit an existing question and update the question text.
+
+3. "Delete existing question" allows you to delete an existing question and update into the question text file.
+
+4. "View all question" allows you to view every questions in the question set.
+
+5. "Randomize queston" allows the question to display in random order(though the order may differ in the program as the same function will be called in the main program.)
+
+6. "View leaderboard" allows you to track players with their high score in a topscore list.
+
+7. "Admin Guide" allows you to open and read THIS guide.

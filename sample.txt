@@ -1,0 +1,29 @@
+6
+MC 10
+Who is the founder of Facebook?
+4
+Mark Zuckerberg
+Steve Jobs
+Tim Cook
+Larry Page
+a
+TF 5
+Air is a mixture. (true/false)
+true
+SA 15
+What is the brand of Iphone?
+apple
+MC 10
+Which one of the following is not an example of force?
+4
+Normal
+Gravity
+Pressure
+Weight
+c
+SA 15
+Where is Samsung Group Headquater located at?
+korea
+SA 10
+What is the greatest power of all?
+love
